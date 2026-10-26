@@ -1,0 +1,6 @@
+{
+  "name": "BookFinder",
+  "description": "Library Book Finder and Academic Wayfinding Application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

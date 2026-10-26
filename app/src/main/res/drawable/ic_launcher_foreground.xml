@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Open Book & Wayfinder Pin Concept -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,34C30,31.8 31.8,30 34,30H50C52.2,30 54,31.8 54,34V76C54,78.2 52.2,80 50,80H34C31.8,80 30,78.2 30,76V34Z" />
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M54,34C54,31.8 55.8,30 58,30H74C76.2,30 78,31.8 78,34V76C78,78.2 76.2,80 74,80H58C55.8,80 54,78.2 54,76V34Z" />
+    <!-- Center binding shadow -->
+    <path
+        android:fillColor="#BBDEFB"
+        android:pathData="M52,30H56V80H52Z" />
+    <!-- Glowing Pin / Search Symbol on top -->
+    <path
+        android:fillColor="#64B5F6"
+        android:pathData="M54,20C46.8,20 41,25.8 41,33C41,43.5 54,58 54,58C54,58 67,43.5 67,33C67,25.8 61.2,20 54,20ZM54,37C51.8,37 50,35.2 50,33C50,30.8 51.8,29 54,29C56.2,29 58,30.8 58,33C58,35.2 56.2,37 54,37Z" />
+</vector>
